@@ -68,13 +68,13 @@ msgstr "Template Configurabile"
 #. module: product_configurator_wizard
 #: model:ir.model.fields,field_description:product_configurator_wizard.field_product_configurator_config_step_ids
 msgid "Configuration Steps"
-msgstr "Configura il Pordotto"
+msgstr "Step Configurazione"
 
 #. module: product_configurator_wizard
 #: model:ir.actions.act_window,name:product_configurator_wizard.action_wizard_product_configurator
 #: model:ir.ui.view,arch_db:product_configurator_wizard.sale_order_form_config
 msgid "Configure Product"
-msgstr "Konfiguriere Produkt"
+msgstr "Configura il Prodotto"
 
 #. module: product_configurator_wizard
 #: model:ir.model.fields,field_description:product_configurator_wizard.field_product_configurator_create_uid
@@ -178,7 +178,7 @@ msgstr "Stato"
 #: code:addons/product_configurator_wizard/wizard/product_configurator.py:397
 #, python-format
 msgid "There was a problem rendering the view (dynamic_form not found)"
-msgstr "Il rendering della vista è in errore (form dinamica non trovata)"
+msgstr "Rendering della vista in errore (form dinamica non trovata)"
 
 #. module: product_configurator_wizard
 #: model:ir.model.fields,field_description:product_configurator_wizard.field_product_configurator_custom_value_user_id
